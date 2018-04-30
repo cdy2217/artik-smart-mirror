@@ -22,8 +22,8 @@ var config = {
       reload_interval : 5 // Number of minutes the information is refreshed
     },
     geoPosition: {
-       latitude: 37.610294,
-       longitude: 126.99743
+       latitude: 37.63047,
+       longitude: 127.09019
     },
 
     conversation : {
